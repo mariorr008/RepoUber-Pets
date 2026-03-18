@@ -21,7 +21,7 @@ ___
 ## Roles de SCRUM:
 - Product Owner: Santiago Mendoza
 - Scrum Master: Juan Pablo Navas
-- Developers: Santiago Mendoza , Mario Alberto Rojas 
+- Developers: Daniel Fernando Vargas , Mario Alberto Rojas 
 
 ## Artefactos SCRUM:
 - Product Backlog
